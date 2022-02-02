@@ -20,9 +20,9 @@ Want to add something to the list or update outdated information? Feel free to m
 # Design tools
 ### 2D
 -	[Gimp](https://www.gimp.org/)
--	[Adobe Photoshop](https://www.adobe.com/nl/products/photoshop.html) (paid)
--	[Adobe Illustrator](https://www.adobe.com/nl/products/illustrator.html) (paid)
--	[Adobe XD](https://www.adobe.com/nl/products/xd.html) (paid, was free)
+-	[Adobe Photoshop](https://www.adobe.com/nl/products/photoshop.html) paid
+-	[Adobe Illustrator](https://www.adobe.com/nl/products/illustrator.html) paid
+-	[Adobe XD](https://www.adobe.com/nl/products/xd.html) paid, was free
 ### 3D
 -	[Blender](https://www.blender.org/)
 
@@ -30,12 +30,25 @@ Want to add something to the list or update outdated information? Feel free to m
 ### Web to mobile app
 -	[Cordova](https://cordova.apache.org/)
 -	[Capacitor](https://capacitorjs.com/)
+### Javascript
+- [Vue.js](https://vuejs.org/)
+- [React](https://reactjs.org/)
+### PHP
+- [Laravel](https://laravel.com/)
+
+# Libraries and toolsets
+### Web development
+- [Fontawesome](https://fontawesome.com/) free to use icons
+- [jQuery](https://jquery.com/) JavaScript library
+- [Bootstrap](https://getbootstrap.com/) CSS library
+- [Tailwind CSS](https://tailwindcss.com/) CSS library
 
 # Challenges
 -	[Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 -	[Game Off](https://itch.io/jam/game-off-2021)
 
 # Cool websites and other developing related things
+- [Transfonter](https://transfonter.org/) convert fonts from TTF to other web ready font extensions
 -	[Caniuse](https://caniuse.com/) check browser support
 -	[TinyPNG](https://tinypng.com/) makes your PNG, JPEG or WebP smaller
 -	[CompressJPEG](https://compressjpeg.com/) same as TinyPNG but with larger maximum file size
